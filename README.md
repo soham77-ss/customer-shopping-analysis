@@ -30,3 +30,7 @@ customer-shopping-analysis/
 │
 ├── README.md                                # Project overview and findings
 └── consumer_shopping_behavior_eda.ipynb     # The main notebook containing the EDA code
+
+## 🚀 Next Steps & Future Work
+*   **Predictive Modeling:** Build a machine learning pipeline using Python to predict a customer's `Purchase Amount` based on their demographic and location data.
+*   **Customer Clustering:** Apply K-Means clustering to segment customers based on their `Review Rating` and `Previous Purchases` to identify high-value brand advocates.
